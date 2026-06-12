@@ -1,0 +1,1 @@
+print("PyShop using Django")
