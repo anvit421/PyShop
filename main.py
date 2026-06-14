@@ -1,1 +1,1 @@
-print("PyShop using Django")
+print("PyShop using Djangop")
